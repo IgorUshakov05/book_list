@@ -71,8 +71,10 @@ p {
     font-size: 25px;
     z-index: 3;
     left: 15px;
+    color:white;
     margin-left: 15px;
     width: fit-content;
+    
     cursor: pointer;
 }
 
@@ -98,11 +100,18 @@ p {
 .title {
     margin-left: 15px;
     margin-top: 15px;
+    text-shadow: 5px 1px 10px black;
 }
+
+.title1
+ {
+    text-shadow: 5px 1px 10px black;
+
+ }
 .author {
+    text-shadow: 5px 1px 10px black;
     margin-left: 15px;
     font-family:Comic Sans MS, Comic Sans, cursive;
     font-size: 19px;
     margin-top: 3px;
 }
-
